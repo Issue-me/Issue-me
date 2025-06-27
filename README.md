@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Issue-me
-- 👀 I’m interested in learning new applications and ways to enhance my coding skills
-- 🌱 I'm currently studying Bachelors of Software Engineering in USP in Fiji
-- 📫 How to reach me ishalprishikachand@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Interested in coding yet fails in it
+Short Summary About Me
+I am a passionate and detail-oriented Computer Science student at the University of the South Pacific with a strong foundation in software engineering, cybersecurity, and network systems. I have developed a range of practical applications, including a real-time Python-based tutor-student attendance system using sockets and Tkinter, a secure student attendance management system with Spring Boot, and a personal portfolio website to showcase my projects.
 
-<!---
-Issue-me/Issue-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in Java, Spring Boot, Python, and front-end development using HTML and CSS (without JavaScript), and I have experience integrating MySQL databases via XAMPP. I have also explored complex algorithmic challenges such as the N-Queens problem and implemented polymorphic sorting techniques. My work emphasizes user authentication, role-based access control, secure data handling, and compliance with privacy standards.
+
+I’m constantly expanding my skills by analyzing real-world cybersecurity events, such as the UnitedHealth Group data breach, and applying risk assessment frameworks in my reports and projects. I thrive in solving real problems through clean code, thoughtful architecture, and a strong sense of responsibility for data integrity and user experience.
